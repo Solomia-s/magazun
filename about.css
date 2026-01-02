@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(51, 167, 224);
+    color: #ffffff;
+    margin: 0;
+}
+
+img {
+    width: 200px;
+    height: 160px;
+    border-radius: 30px;
+
+}
+img:hover{
+    box-shadow: 5px 10px 15px 0 red;
+}
+
+header {
+    text-align: center;
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+h2  {
+    font-family: Snell Roundhand, cursive;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer { 
+    
+   
+}
+
+footer a {
+     
+}
+
+footer p {
+     
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+footer {
+    text-align: center;
+    font-size:15PX ;
+}
